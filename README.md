@@ -18,9 +18,13 @@
 
 <p>
 🎧 Audio Input: Supports popular audio formats like MP3 and WAV.
+  
 🧠 ML-Powered Transcription: Uses pre-trained models or APIs (like Google Web Speech API or DeepSpeech) for accurate speech-to-text conversion.
+
 🕒 Timestamped Subtitles: Automatically segments the transcribed text into subtitle-ready format with time codes (ideal for videos or karaoke).
+
 🎵 Lyrics Extraction: Designed to extract and structure lyrics from song audio.
+
 📁 Optional Export: Outputs transcriptions in plain text or SRT (SubRip Subtitle) format.</p>
 
 </br>
@@ -32,11 +36,15 @@
 </br>
 
 <p>
-Python
-speech_recognition
-pydub or librosa
-wave / audiosegment
-matplotlib (optional, for visualization)</p>
+-> Python
+  
+-> speech_recognition
+
+-> pydub or librosa
+
+-> wave / audiosegment
+
+-> matplotlib (optional) for visualization)</p>
 
 </br>
 
@@ -47,6 +55,8 @@ matplotlib (optional, for visualization)</p>
 </br>
 
 <p>
-Automatic subtitle generation for videos
-Lyrics extraction for music analysis or display
-Enhancing accessibility in audio/video content</p>
+-> Automatic subtitle generation for videos
+  
+-> Lyrics extraction for music analysis or display
+
+-> Enhancing accessibility in audio/video content</p>
